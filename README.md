@@ -2,7 +2,7 @@
 ****
 **Los recursos de tanto de la base de datos cómo de los endPoints del postman está:** 
 **La base de datos están el src/resource/Data_Base**
-**La colección d[src](src)e endPoints de postman está en la src/resource/Postman.**
+**La colección de endPoints de postman está en la src/resource/Postman.**
 
 **Credenciales para el empleado:**<br>
 **- Usuario: hackaboss**<br>
@@ -761,4 +761,4 @@ Y si ahora quisieramos crear otra reserva en esa misma habitación podríamos po
    cada hotel tenga una lista de habitaciones en la cual se pueda elegir que habitación quieres y que sea la habitación que controle las reservas.
 
 2. Otra posible mejora es controlar que los usuarios no tengan el mismo pasaporte, ya que es como el DNI, sería intransferible y así tener un mayor control
-   sobre lois usuarios.
+   sobre los usuarios.
