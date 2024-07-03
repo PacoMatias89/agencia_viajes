@@ -1,4 +1,4 @@
-# Prueba técnico - Agencia de viajes
+# Agencia de viajes
 ****
 **Los recursos de tanto de la base de datos cómo de los endPoints del postman está:** 
 **La base de datos están el src/resource/Data_Base**
